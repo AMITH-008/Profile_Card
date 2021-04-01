@@ -13,7 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://amith-008.github.io/Profile_Card/)
+- Solution URL: https://amith-008.github.io/Profile_Card/
 
 ## My process
 
@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 -Stacking Property
 
 ### Useful resources
-- (https://developer.mozilla.org/en-US/docs/Web/CSS)
-- (https://www.w3schools.com/css)  
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+- https://www.w3schools.com/css 
 
 
 ## Author
